@@ -1,9 +1,3 @@
-
-
-**关注公众号【爱毕设】或添加QQ 【979748385】，可免费获取完整代码**
-
----
-
 <div id="title" align=center>
 
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
@@ -15,6 +9,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 </div>
+
+**关注公众号【爱毕设】或添加QQ 【979748385】，可免费获取完整代码**
 
 ---
 
